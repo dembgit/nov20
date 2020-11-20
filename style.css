@@ -1,3 +1,17 @@
 body{
     background-image: url('images/mobilebackground.png');
 }
+
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80px;
+    margin-top: 2rem;
+}
+
+.name{
+    color: white;
+    text-align: center;
+    margin-top: 4px;
+}
