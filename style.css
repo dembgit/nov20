@@ -1,0 +1,11 @@
+:root {
+    --white: #FFFFFF;
+    --dark-blue: #090740;
+    --mountain: #7C626F;
+    --sand: #DBB29C;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
